@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggerparse",
+        "uuid": 13191610,
+        "checksum": "fy7ps"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
